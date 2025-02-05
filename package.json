@@ -4,5 +4,13 @@
   },
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "name": "rock-paper-scissors-game",
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Michelle600/Rock-Paper-Scissors-Game)",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

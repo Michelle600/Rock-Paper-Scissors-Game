@@ -24,7 +24,7 @@ function rock() {
   }
   document.getElementById(
     'result'
-  ).innerText = `You pick pick rock. Computer picked ${computerMove}. \n${result}`;
+  ).innerText = `You pick rock. Computer picked ${computerMove}. \n${result}`;
 }
 
 // PAPER ------------------------------------------------------------
@@ -53,7 +53,7 @@ function paper() {
   }
   document.getElementById(
     'result'
-  ).innerText = `You pick pick paper. Computer picked ${computerMove}.\n${result}`;
+  ).innerText = `You pick paper. Computer picked ${computerMove}.\n${result}`;
 }
 
 // SCISSORS ------------------------------------------------------------
@@ -82,5 +82,5 @@ function scissors() {
   }
   document.getElementById(
     'result'
-  ).innerText = `You pick pick scissors. Computer picked ${computerMove}. \n${result}`;
+  ).innerText = `You pick scissors. Computer picked ${computerMove}. \n${result}`;
 }
